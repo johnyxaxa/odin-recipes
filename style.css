@@ -18,3 +18,9 @@ li {
     font-size: 18px;
     font-style: italic;
 }
+
+img {
+    height: 400px;
+    width: auto;
+    border-radius: 10px;
+}
